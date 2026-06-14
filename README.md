@@ -27,5 +27,5 @@ A simple Email Validator web application built using HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-[Click Here to View Project](https://learn2005-maker.github.io/iValidate-Email-Validator/)
+[Click Here to View Project](https://i-validate-email-verification-7f0jcghdr.vercel.app)
  
